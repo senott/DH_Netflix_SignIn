@@ -30,7 +30,7 @@
 
 
 <p align="center">
-  <h3 align="center">Jane Doe</h3>
+  <h3 align="center">Netflix Sign In Page Clone</h3>
 
   <p align="center">
     Digital House Front End course by Estação Hack from Facebook. Netflix sign in page using HTML, CSS and Javascript.
