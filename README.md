@@ -32,14 +32,14 @@
   <p align="center">
     Digital House Front End course by Estação Hack from Facebook. Netflix sign in page using HTML, CSS and Javascript.
     <br />
-    <a href="https://github.com/senott/DH_Netflix"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/senott/DH_Netflix_SignIn"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://netflix-signin-clone.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/senott/DH_Netflix/issues">Report Bug</a>
+    <a href="https://github.com/senott/DH_Netflix_SignIn/issues">Report Bug</a>
     ·
-    <a href="https://github.com/senott/DH_Netflix/issues">Request Feature</a>
+    <a href="https://github.com/senott/DH_Netflix_SignIn/issues">Request Feature</a>
   </p>
 </p>
 
@@ -84,7 +84,7 @@ There's no dependencies to run this project.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/senott/DH_Netflix.git
+git clone https://github.com/senott/DH_Netflix_SignIn.git
 ```
 2. Go to the project folder
 ```sh
@@ -106,7 +106,7 @@ Just access the project URL and see the sign in clone.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/senott/DH_Netflix/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/senott/DH_Netflix_SignIn/issues) for a list of proposed features (and known issues).
 
 
 
@@ -135,7 +135,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Diego de A. Senott - [@senott](https://twitter.com/senott) - senott@yahoo.com
 
-Project Link: [https://github.com/senott/DH_Netflix](https://github.com/senott/DH_Netflix)
+Project Link: [https://github.com/senott/DH_Netflix_SignIn](https://github.com/senott/DH_Netflix_SignIn)
 
 
 
@@ -148,16 +148,16 @@ No aditional libraries or softwares were used.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/senott/DH_Netflix.svg?style=flat-square
-[contributors-url]: https://github.com/senott/DH_Netflix/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/senott/DH_Netflix.svg?style=flat-square
-[forks-url]: https://github.com/senott/DH_Netflix/network/members
-[stars-shield]: https://img.shields.io/github/stars/senott/DH_Netflix.svg?style=flat-square
-[stars-url]: https://github.com/senott/DH_Netflix/stargazers
-[issues-shield]: https://img.shields.io/github/issues/senott/DH_Netflix.svg?style=flat-square
-[issues-url]: https://github.com/senott/DH_Netflix/issues
-[license-shield]: https://img.shields.io/github/license/senott/DH_Netflix.svg?style=flat-square
-[license-url]: https://github.com/senott/DH_Netflix/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/senott/DH_Netflix_SignIn.svg?style=flat-square
+[contributors-url]: https://github.com/senott/DH_Netflix_SignIn/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/senott/DH_Netflix_SignIn.svg?style=flat-square
+[forks-url]: https://github.com/senott/DH_Netflix_SignIn/network/members
+[stars-shield]: https://img.shields.io/github/stars/senott/DH_Netflix_SignIn.svg?style=flat-square
+[stars-url]: https://github.com/senott/DH_Netflix_SignIn/stargazers
+[issues-shield]: https://img.shields.io/github/issues/senott/DH_Netflix_SignIn.svg?style=flat-square
+[issues-url]: https://github.com/senott/DH_Netflix_SignIn/issues
+[license-shield]: https://img.shields.io/github/license/senott/DH_Netflix_SignIn.svg?style=flat-square
+[license-url]: https://github.com/senott/DH_Netflix_SignIn/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/senott
 [product-screenshot]: assets/images/Screenshot.png
