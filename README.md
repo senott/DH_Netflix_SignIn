@@ -30,7 +30,7 @@
   <h3 align="center">Netflix Sign In Page Clone</h3>
 
   <p align="center">
-    Digital House Front End course by Estação Hack from Facebook. Netflix sign in page using HTML, CSS and Javascript.
+    Digital House Frontend course by Estação Hack from Facebook. Netflix sign in page clone using HTML, CSS and Javascript.
     <br />
     <a href="https://github.com/senott/DH_Netflix_SignIn"><strong>Explore the docs »</strong></a>
     <br />
