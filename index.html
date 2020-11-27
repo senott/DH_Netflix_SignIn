@@ -4,12 +4,67 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Netflix Sign In Page</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="assets/styles/styles.css">
 </head>
 <body>
   <div class="image-container">
-    <img src="assets/images/netflix-bg.jpg" alt="A lot of movies and series posters" class="image-background">
+    <div class="opacity-container"></div>
+    <img src="assets/images/netflix-logo.png" alt="Netflix logo" class="logo-image">
+    <div class="container">
+      <div class="login-container">
+        <h1>Entrar</h1>
+        <input name="email" id="email" type="text" placeholder="E-mail ou número de telefone" class="input" />
+        <input name="password" id="password" type="text" placeholder="Senha" class="input" />
+        <button class="btn">Entrar</button>
+        <div class="line">
+          <input type="checkbox" id="remember" class="checkbox">
+          <label for="remember" class="login-text">Lembre-se de mim</label>
+          <span class="align-right login-text">Precisa de ajuda?</span>
+        </div>
+        <div class="line mt-50">
+          <img src="assets/images/FB-f-Logo__blue_57.png" alt="Facebook small logo" class="small-logo">
+          <span class="dark-text">Conectar com Facebook</span>
+        </div>
+        <div class="line mt-20">
+          <span class="dark-big-text">
+            Novo por aqui?
+            <a href="https://www.netflix.com" class="white-link">Assine agora</a>.
+          </span>
+        </div>
+        <div class="line mt-20">
+          <span class="dark-text">
+            Esta página é protegida pelo Google reCAPTCHA para garantir que você não é um robô.
+            <a class="blue-link" href="#" id="saiba">Saiba mais</a>.
+          </span>
+        </div>
+          <div class="accordion">
+            <span class="dark-text">
+              As informações recolhidas pelo Google reCAPTCHA estão sujeitas à <a href="#" class="blue-link">Política de
+                Privacidade</a> e <a href="#" class="blue-link">Termos de Uso</a>, e são usadas
+              para oferecer, manter e melhorar o serviço reCAPTCHA e por questões de segurança (não são usadas para exibir
+              anúncios personalizados pelo Google).
+            </span>
+          </div>
+      </div>
+      <div class="opacity-footer">
+        <p class="dark-big-text">Dúvidas? Ligue <a href="tel:0800-761-4631" class="grey-link">0800-761-4631</a></p>
+        <p class="dark-text footer-links">
+          <a href="#" class="grey-link">Perguntas frequentes</a>
+          <a href="#" class="grey-link">Centro de ajuda</a>
+          <a href="#" class="grey-link">Termos de uso</a>
+          <a href="#" class="grey-link">Privacidade</a>
+        </p>
+        <p class="dark-text footer-links">
+          <a href="#" class="grey-link">Preferências de cookies</a>
+          <a href="#" class="grey-link">Informações corporativas</a>
+        </p>
+        <select name="language" id="language">
+          <option value="portugues" selected>Português</option>
+          <option value="english">English</option>
+        </select>
+      </div>
+    </div>
   </div>
-  <div class="opacity-container"></div>
+  <script src="assets/js/app.js"></script>
 </body>
 </html>
