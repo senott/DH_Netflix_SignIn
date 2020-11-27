@@ -24,7 +24,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0d676080-8689-4670-af9f-b0746d0cca1c/deploy-status)](https://app.netlify.com/sites/netflix-signin-clone/deploys)
 
 <p align="center">
   <h3 align="center">Netflix Sign In Page Clone</h3>
